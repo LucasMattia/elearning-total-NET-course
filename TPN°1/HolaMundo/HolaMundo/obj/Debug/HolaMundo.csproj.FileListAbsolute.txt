@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Lucas\source\repos\elearning-total-NET-course\TPN°1\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
